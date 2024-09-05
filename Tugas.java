@@ -7,6 +7,10 @@ public class Tugas {
       
        System.out.println("Nama : MOCHAMMAD FAISOL BISMAGRAHA");
       System.out.println("Nim  : 244107020010");
+
+      System.out.println("Nama : Muhammad Fatahillah Athabrani");
+      System.out.println("Nim  : 244107020121");
+
       
   }
 }
